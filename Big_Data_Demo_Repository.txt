@@ -1,0 +1,12 @@
+git Installation document:
+-------------------------
+
+https://opaque-fossa-70b.notion.site/Git-Installation-d606143e2ae943e3b92f68e0599b5cac
+
+git --version
+
+
+git clone https://github.com/viratbhoomi/bid_data_demo.git
+
+change directory to the cloned repo in local.
+
