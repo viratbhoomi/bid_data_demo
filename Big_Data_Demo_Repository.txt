@@ -10,3 +10,15 @@ git clone https://github.com/viratbhoomi/bid_data_demo.git
 
 change directory to the cloned repo in local.
 
+add a file or update a file in this one.
+
+git status (it shows the added file in red color)
+
+update file by using command "git add ."
+
+git commit -m "Initial commit by Virat"
+
+git push origin main
+
+
+
