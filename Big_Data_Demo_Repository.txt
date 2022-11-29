@@ -20,5 +20,32 @@ git commit -m "Initial commit by Virat"
 
 git push origin main
 
+to add a dir into git repo use the following commands:
+-----------------------------------------------------
+
+create a directory in anywhere of the desktop
+
+create a file that you want to save into the repo
+
+git clone "https://"(repository link)
+
+git status
+
+git add .
+
+git commit -m "multiple commit"
+
+git remote add origin "git repo url link"(to establish the connection between the local and the git repo)
+
+git push origin main
+
+Note: in the terminal if the repo directory name shows as master then convert into main by using the following command
+----
+               git branch -m main
+               git push -u origin main
+
+
+
+
 
 
