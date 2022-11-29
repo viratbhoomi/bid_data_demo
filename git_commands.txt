@@ -47,7 +47,11 @@ Note: in the terminal if the repo directory name shows as master then convert in
                
 git pull origin main
 
+<<<<<<< HEAD
 merge conflicts from local
+=======
+merge conflicts
+>>>>>>> 0acf4a492306a36a822d949c46a422e27e5a2990
 
 
 
