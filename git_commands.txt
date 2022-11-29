@@ -47,6 +47,8 @@ Note: in the terminal if the repo directory name shows as master then convert in
                
 git pull origin main
 
+merge conflicts
+
 
 
 
