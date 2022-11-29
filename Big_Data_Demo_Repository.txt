@@ -43,11 +43,6 @@ Note: in the terminal if the repo directory name shows as master then convert in
 ----
                git branch -m main
                git push -u origin main
-               
-               
-git pull origin main
-
-merge conflicts from local
 
 
 
